@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\educo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\educo\\.nuget\\packages"
+    ]
+  }
+}
